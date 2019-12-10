@@ -7,10 +7,14 @@ Carolin Seyfferth 1, Bernard Wessels 1, Jorma Vahala 3,4, Jaakko Kangasjärvi 3,
 ### Affiliations:
 
 1 Umeå Plant Science Centre, Department of Plant Physiology, Umeå University, SE-90187 Umeå, Sweden
+
 2 Umeå Plant Science Centre, Department of Forest Genetics and Plant Physiology, Swedish University of Agricultural Sciences, SE-90184 Umeå, Sweden
+
 3 Division of Plant Biology, Department of Biosciences, University of Helsinki, Helsinki, Finland
 4 Viikki Plant Science Centre, University of Helsinki, Helsinki, Finland
+
 5 Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of Life Sciences, Ås, Norway
+
 *Corresponding author: Felten, J (judith.felten@slu.se)
 
 ## Abstract
