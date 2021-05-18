@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0157-R0001" center_name="UPSC" run_center="SciLifeLab" run_date="2018-03-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0157-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0157/P10065_104_S83_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="afaff25b6415316b8d07d71f1aebedaa"/>
+    <FILE filename="UPSC-0157/P10065_104_S83_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="bcc736b26ee01fa3d86dd631a398097a"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0157-R0002" center_name="UPSC" run_center="SciLifeLab" run_date="2018-07-19T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0157-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0157/P10805_101_S6_L001_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="b16331ae2609a8f17ddceba06c004a82"/>
+    <FILE filename="UPSC-0157/P10805_101_S6_L001_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="8a3391f5e438b82a7694d6d77b83ecad"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0157-R0003" center_name="UPSC" run_center="SciLifeLab" run_date="2018-07-19T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0157-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0157/P10805_102_S7_L001_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2d9e447c7f546c366880be3a6eba011c"/>
+    <FILE filename="UPSC-0157/P10805_102_S7_L001_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="cbc5e3e0eb2c0daa32a775a38b4294c4"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0157-R0004" center_name="UPSC" run_center="SciLifeLab" run_date="2018-03-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0157-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0157/P10065_101_S80_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6e9efa1c9b5593922f8b40b6155d5699"/>
+    <FILE filename="UPSC-0157/P10065_101_S80_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="ba211252bdc0eb95923162d3b3b11de6"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0157-R0005" center_name="UPSC" run_center="SciLifeLab" run_date="2018-03-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0157-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0157/P10065_102_S81_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="c976c0c3492f5cfdc3a287085e46e0ee"/>
+    <FILE filename="UPSC-0157/P10065_102_S81_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="049efc61e33bb1ea3cca0c989e905e20"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0157-R0006" center_name="UPSC" run_center="SciLifeLab" run_date="2018-03-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0157-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0157/P10065_103_S82_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="a2a0366c481c4b032a313352c13bb53d"/>
+    <FILE filename="UPSC-0157/P10065_103_S82_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2e48423975a62c8bdfb79e57f124eb01"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>
